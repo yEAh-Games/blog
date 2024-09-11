@@ -1,0 +1,23 @@
+
+
+{
+  "name": "The yEAh Library",
+  "short_name": "The yEAh Library",
+  "description": "The yEAh Games Library is the best, free way to access yEAh Archives files. Simply open the Library website, and all Archive files will be displayed in a browsable format.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+
